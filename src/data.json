@@ -1,0 +1,52 @@
+[
+  {
+    "id": "c5upln8ty2",
+    "task": "Identify what kind of party you are throwing",
+    "completed": true
+  },
+  {
+    "id": "mz7x3wyqdx",
+    "task": "Decide on the basics",
+    "completed": false
+  },
+  {
+    "id": "wgt07t2tfr",
+    "task": "Make a guest list",
+    "completed": false
+  },
+  {
+    "id": "fripycsaiq",
+    "task": "Develop a timeline",
+    "completed": true
+  },
+  {
+    "id": "d1laos59bh",
+    "task": "Take a look back at step two",
+    "completed": false
+  },
+  {
+    "id": "9hnc90vxp2",
+    "task": "Take care of the details",
+    "completed": false
+  },
+  {
+    "id": "p9hdh2sscp",
+    "task": "Rent away",
+    "completed": false
+  },
+  {
+    "id": "l2ov2cyltr",
+    "task": "Send out the invitations",
+    "completed": false
+  },
+  {
+    "id": "1rct7lxf0c",
+    "task": "It’s time to look fly",
+    "completed": false
+  },
+  {
+    "id": "t17ypfawdi",
+    "task": "Take the day before your event off",
+    "completed": false
+  }
+]

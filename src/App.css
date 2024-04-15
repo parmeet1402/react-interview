@@ -1,0 +1,19 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.main-list {
+  margin-top: 12px;
+}
+
+.todo {
+  color: rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+  line-height: 24px;
+  transition: linear 400ms;
+}
+
+.todo:hover {
+  color: rgba(0, 0, 0, 1);
+}
